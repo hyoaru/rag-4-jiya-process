@@ -4,7 +4,9 @@ requires-python = ">=3.10,<4.0"
 dependencies = [
     "docling (>=2.16.0,<3.0.0)",
     "jupyter (>=1.1.1,<2.0.0)",
-    "ipykernel (>=6.29.5,<7.0.0)"
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+    "chromadb-client (>=0.6.3,<0.7.0)"
 ]
 
 [build-system]
