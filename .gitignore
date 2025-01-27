@@ -2,3 +2,4 @@
 data/knowledge-base/
 
 # Files
+.env

@@ -6,7 +6,9 @@ dependencies = [
     "jupyter (>=1.1.1,<2.0.0)",
     "ipykernel (>=6.29.5,<7.0.0)",
     "python-dotenv (>=1.0.1,<2.0.0)",
-    "chromadb-client (>=0.6.3,<0.7.0)"
+    "chromadb-client (>=0.6.3,<0.7.0)",
+    "openai (>=1.60.1,<2.0.0)",
+    "joblib (>=1.4.2,<2.0.0)"
 ]
 
 [build-system]
