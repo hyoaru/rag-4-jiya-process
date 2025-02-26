@@ -2368,6 +2368,7 @@ dependencies = [
     { name = "openai" },
     { name = "pydantic" },
     { name = "pydantic-ai-slim", extra = ["openai"] },
+    { name = "pydantic-graph" },
     { name = "python-dotenv" },
 ]
 
@@ -2382,6 +2383,7 @@ requires-dist = [
     { name = "openai", specifier = ">=1.63.0" },
     { name = "pydantic", specifier = ">=2.10.6" },
     { name = "pydantic-ai-slim", extras = ["openai"], specifier = ">=0.0.24" },
+    { name = "pydantic-graph", specifier = ">=0.0.24" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
 ]
 

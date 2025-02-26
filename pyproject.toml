@@ -14,5 +14,6 @@ dependencies = [
     "openai>=1.63.0",
     "pydantic>=2.10.6",
     "pydantic-ai-slim[openai]>=0.0.24",
+    "pydantic-graph>=0.0.24",
     "python-dotenv>=1.0.1",
 ]
